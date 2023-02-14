@@ -1,0 +1,6 @@
+.Bird{
+    position: absolute;
+    display: flex;
+    background-color: orange;
+    border-radius: 50%;
+}

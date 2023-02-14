@@ -1,0 +1,7 @@
+.Ground {
+    position: absolute;
+    bottom: 0px;
+    background-repeat: repeat;
+    background-size: cover;
+    background-color: gray;
+}
